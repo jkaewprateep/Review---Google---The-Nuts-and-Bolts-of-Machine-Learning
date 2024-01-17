@@ -3,6 +3,8 @@ Review - Google - The Nuts and Bolts of Machine Learning
 
 🧸💬 Google has launched interesting courses in many areas including machine learning and AI to work applications. Seeking significant value responses and determining suitable dependent values is an important task. Sometime before training with the Gradient descent method, input parameters are limited by the input method in some cases. That is because relative values look easy to control in the starting and working as device control they need to be carefully selected. Sample the automatic machine safety of the bus door.
 
+### Confusion matrix ###
+🐑💬 How significant the input parameter in the system is not always as important as selecting a good response and controllable input parameters. We do not accelerate the pacing speed of the entering passenger but they also an input to the automatic security door system.
 
 <p align="center" width="100%">
 <picture>
@@ -12,6 +14,8 @@ Review - Google - The Nuts and Bolts of Machine Learning
 <br>Ref[1]: Confusion matrix </br>
 </p>
 
+### K-means responses graph ###
+🐑💬 To save of power of calculation or power to the device consumption the machinery tries to create a machine that can continue of work applied on the sample. Sample an automatic security door.
 
 <p align="center" width="100%">
 <picture>
